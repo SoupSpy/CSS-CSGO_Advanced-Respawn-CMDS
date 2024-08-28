@@ -1,0 +1,65 @@
+"Phrases"
+{
+	"prefix"
+	{
+		"en"	"{darkred}[ {olive}VortéX Respawn {darkred}]{default}"
+		"tr"	"{darkred}[ {olive}VortéX Respawn {darkred}]{default}"
+	}
+	"checkConsole"
+	{
+		"en"	"Check console for more info!"
+		"tr"	"Daha fazla bilgi için console bakın!"
+	}
+	"respawned"
+	{
+		"#format"	"{1:s}"
+		"en"	"Respawned player {1}"
+		"tr"	"Oyuncu {1} yeniden canlandırıldı"
+	}
+	"disabled"
+	{
+		"en"	"This plugin is disabled."
+		"tr"	"Bu eklenti devredışı."
+	}
+	"disabledCmd"
+	{
+		"en"	"This command is disabled."
+		"tr"	"Bu komut devredışı."
+	}
+	"eye angle pos"
+	{
+		"#format"	"{1:s}"
+		"en"	"Respawned player {1} at your eye angle,"
+		"tr"	"Oyuncu {1} gözünüzle baktığınız yerde yeniden canlandırıldı,"
+	}
+	"freeze"
+	{
+		"#format"	"{1:s},{2:d}"
+		"en"	"Froze player {1} for {2} seconds at"
+		"tr"	"Şu konumda oyuncu {1} {2} saniyeliğine donduruldu"
+	}
+	"tp to corpse failed"
+	{
+		"#format"	"{1:s}"
+		"en"	"Could not find player {1}'s corpse position!"
+		"tr"	"Oyuncu {1} cesetinin bulunduğu pozisyonu bulamadım!"
+	}
+	"tp to corpse failed chat"
+	{
+		"#format"	"{1:s}"
+		"en"	"Could not find player {grey}{1}{default}'s corpse position!"
+		"tr"	"Oyuncu {grey}{1}{default} cesetinin bulunduğu pozisyonu bulamadım!"
+	}
+	"hrespawn"
+	{
+		"#format"	"{1:s}"
+		"en"	"Respawned player {1} at"
+		"tr"	"Oyuncu {1} şu pozisyonda yeniden canlandırıldı"
+	}
+	"tp to corpse"
+	{
+		"#format"	"{1:s}"
+		"en"	"Teleported to {grey}{1}{default}'s corpse position:"
+		"tr"	"Oyuncu {grey}{1}{default}'nun cesetinin bulunduğu yere ışınlandınız:"
+	}
+}
