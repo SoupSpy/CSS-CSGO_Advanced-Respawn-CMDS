@@ -16,7 +16,7 @@ None, yet.
 | `sm_respawn`  | admin | Respawns the dead player(s).                                         |
 
 ## USAGE
-```c#
+```ini
 [SM] Usage: sm_hrespawn <name|userid> [Players must be dead]
 [SM] Usage: sm_grespawn <name|userid> <freeze 1|0> <freeze time != 0>
 [SM] Usage: sm_respawn <name|userid>]
@@ -24,7 +24,7 @@ None, yet.
 ```
 
 ## CVARS
-```ini
+```c
 // Enables or Disables the plugin itself.
 // -
 // Default: "1"
