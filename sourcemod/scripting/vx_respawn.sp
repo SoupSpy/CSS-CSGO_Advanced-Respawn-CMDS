@@ -11,9 +11,9 @@ public Plugin myinfo =
 {
 	name = "[VX] Advanced Respawn Commands", 
 	author = "Yekta.T [The SoupSpy]", 
-	description = "", 
+	description = "This plugin contains advanced respawn commands that can be really useful in game modes like fun, public, or jailbreak.", 
 	version = PLUGIN_VERSION, 
-	url = ""
+	url = "vortexguys.com"
 }
 
 ConVar gc_enabled;
